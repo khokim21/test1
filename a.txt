@@ -1,4 +1,10 @@
 하하 안녕하세요
 -----------------
 
+<<<<<<< HEAD
 master code
+=======
+second
+
+add in second
+>>>>>>> refs/heads/v2
