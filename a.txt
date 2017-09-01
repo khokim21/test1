@@ -1,12 +1,2 @@
-hohoho
-
-하하 안녕하세요
------------------
-
-<<<<<<< HEAD
-master code
-=======
-second
-
-add in second
->>>>>>> refs/heads/v2
+for x in range(100)
+	print(x)
